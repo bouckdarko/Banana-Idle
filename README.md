@@ -1,2 +1,2 @@
-# Banana-Idle
-Banana idle
+# Banana Idle Game
+Banana Idle Game
